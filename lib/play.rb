@@ -42,7 +42,5 @@ def play(board)
 until counter == 20
     turn(board)
   counter += 1
-end
-    turn(board)
  end
 end
