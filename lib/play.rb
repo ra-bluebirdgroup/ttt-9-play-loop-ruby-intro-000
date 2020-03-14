@@ -44,5 +44,3 @@ counter  = 0
     turn(board)
   end
 end
-
-play(board)
