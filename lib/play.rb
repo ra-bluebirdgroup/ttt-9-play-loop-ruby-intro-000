@@ -42,5 +42,5 @@ counter  = 0
   while counter < 10
     turn(board)
     counter++
-  end
+  
 end
