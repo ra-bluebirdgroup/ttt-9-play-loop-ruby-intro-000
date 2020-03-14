@@ -38,9 +38,11 @@ end
 # Define your play method below
 
 def play(board)
-counter  = 0
-  while counter <= 9
+  counter = 0
+until counter == 20
     turn(board)
-    counter += 1
- end 
+  counter += 1
+end
+    turn(board)
+ end
 end
